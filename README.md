@@ -8,3 +8,7 @@ License
 I am the copyright holder of this software. You may not physically or digitally host, display, distribute, or share this software (or any modified form thereof). You may not use this software in commercial or non-commercial products, websites, or projects. You may not sell this software, and you may not create NFTs from it. The software may be used for the private or non-commercial generation of geometries/GLTFs. The software and the generated geometries/GLTFs may be used for educational purposes and you may link to the software via a URL or source reference as part of your educational material.
 
 _______________________________________________________________
+
+Examples see https://discourse.threejs.org/t/single-branched-geometry-organically-shaped-in-the-web-editor/76129  
+ pictures
+ videos
